@@ -4,8 +4,8 @@ The code book at hand describes the resulting data fields in the data set CALCUL
 
 ## Identifiers
 
-* `Subject` - The ID of the tested individual (increasing number)
-* `Activity` - The type of activity performed when respective measurements were obtained
+* `Subject` in column 1 - The ID of the tested individual (increasing number)
+* `Activity` in column 2 - The type of activity performed when respective measurements were obtained
 
 For `Activity`, the following labels represent values from the original data
 * `WALKING` 
